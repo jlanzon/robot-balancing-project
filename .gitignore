@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.DS_Store
+Thumbs.db
+
+.wbproj
+*.tmp
+*.bak
+
+venv/
+.env/
